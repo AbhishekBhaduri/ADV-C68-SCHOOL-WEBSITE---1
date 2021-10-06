@@ -1,0 +1,16 @@
+.row after {
+  contect:"";
+  clear:both;
+  display:table;
+}
+
+.travel_mainDiv {
+    border: 1px solid #c7c7c7;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none
+}
+
+.travel_mainDiv img {
+    width: 100%;
+}
